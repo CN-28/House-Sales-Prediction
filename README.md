@@ -15,6 +15,18 @@ The project was built to learn the basics of linear regression and expand my kno
 
 <h1 id="visualization"> 📈 Visualization </h1>
 
+The first graph shows the sample of 250 points and the linear function matched by the trained model.
+
+![as](https://user-images.githubusercontent.com/67509491/140822350-c059d19c-f9ee-4974-a29d-6f6e6291b1f6.PNG)
+
+This graph represents the loss function during training.
+
+![1234](https://user-images.githubusercontent.com/67509491/140822703-e487f849-1a27-40a4-b416-9edb66d311fe.PNG)
+
+The accuracy of the model is 49.26%. It is not that bad for linear regression with one variable, but certainly can be improved by using multivariable linear regression.
+
+
+
 <h1 id="technologies"> 👨‍💻 Technologies </h1>
 
 Project was created with:
